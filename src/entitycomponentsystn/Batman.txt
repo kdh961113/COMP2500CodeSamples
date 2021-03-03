@@ -1,0 +1,3 @@
+Entity,Physics,Controllable
+
+게임 개체 하나를 정의하는 텍스트 파일. 모든 컴포넌트가 한줄에 적혀 있음. 쉼표로 분리함.
